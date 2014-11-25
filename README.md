@@ -1,6 +1,6 @@
 A simple and bugged script to extract bibliograhic metadata from Wikisource books, and put them in a csv. 
 
-The script is slow and it crash frequently, but it's my fault because I can't really use the try/except intructions.
+The script is slow and crashes frequently, but it's my fault because I can't really use the try/except intructions.
 This is my very first coding attempt, so please come here and make it better :-)
 
 Details
